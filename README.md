@@ -8,6 +8,7 @@
   1. [PCB](pcb)
   1. [Software](software)
   1. [Assembly manual](#assembly-manual)
+  1. [Additional informations](#additional-informations)
 
 ## Introduction
 
@@ -55,3 +56,7 @@ qwerty
 ## Assembly manual
   
 In progress... gonna upload it in few days.
+  
+## Additional informations
+  
+Keep in mind that the project is still under development and some information is missing here. If you encounter problems - contact me using email: michael.grabowski.lab@gmail.com
