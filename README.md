@@ -11,7 +11,6 @@
 ## Introduction
 
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
- 
     ![Alt text](/Gripper/Images/gripperOnUR_1.jpg "Optional title")
     
 ## Features
