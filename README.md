@@ -8,6 +8,7 @@
   1. [PCB](pcb)
   1. [Software](software)
   1. [Assembly manual](#assembly-manual)
+  1. [Additional informations](#additional-informations)
 
 ## Introduction
 
@@ -19,8 +20,7 @@
 
 *The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
-*Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and micro-
-controller.
+*Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and microcontroller.
 
 *Powerful grip - 2:1 gear ratio.
 
@@ -46,7 +46,7 @@ For non printed parts look here:
 
 ## PCB
 
-I created dedicated PCB for this projects, however feel free to modify it or even use your own designs.
+I designed dedicated PCB for this project, however feel free to modify it or even use your own designs.
 <img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_photo.jpg" alt="PCB" width="350"/>
 
 ## Software
@@ -56,3 +56,7 @@ qwerty
 ## Assembly manual
   
 In progress... gonna upload it in few days.
+  
+## Additional informations
+  
+Keep in mind that the project is still under development and some information is missing here. If you encounter problems - contact me using email: michael.grabowski.lab@gmail.com
