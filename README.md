@@ -10,8 +10,7 @@
 
 ##introduction
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
-
-    ![alt text](https://github.com/Evroc/Robotic-gripper/blob/main/Gripper/Images/gripperOnUR_1.jpg)
+    ![Alt text](/Gripper/Images/gripperOnUR_1.jpg "Optional title")
 ##Features
 *The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
