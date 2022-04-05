@@ -9,9 +9,13 @@
   1. [Assembly manual](#assembly-manual)
 
 ##introduction
+
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
+ 
     ![Alt text](/Gripper/Images/gripperOnUR_1.jpg "Optional title")
+    
 ##Features
+
 *The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
 *Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and micro-
@@ -28,9 +32,11 @@ example.
 *ROS compatible - use rosserial to communicate with the gripper.
 
 ##Printed parts
+
 All files can be found there: <prusaprinters link>
 
 ##Other parts
+  
 For non printed parts look here:
 
 -Gripper parts [CLICK](Robotic-gripper/Gripper/BOM/GripperBOM.xlsx)
@@ -42,4 +48,5 @@ For non printed parts look here:
 qwerty
 
 ##Assembly manual
+  
 In progress... gonna upload it in few days.
