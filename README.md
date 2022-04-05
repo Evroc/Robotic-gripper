@@ -1,9 +1,9 @@
 # Robotic gripper
 
-##Table of contents
+## Table of contents
   1. [Introduction](#introduction)
   1. [Features](#features)
-  1. [Printed parts](#printed parts) 
+  1. [Printed parts](#printed-parts) 
   1. [Other parts](#other-parts)
   1. [Software](software)
   1. [Assembly manual](#assembly-manual)
