@@ -39,9 +39,9 @@ All files can be found there: <prusaprinters link>
   
 For non printed parts look here:
 
--Gripper parts [CLICK](Robotic-gripper/Gripper/BOM/GripperBOM.xlsx)
+-Gripper parts [CLICK](/Gripper/BOM/GripperBOM.xlsx)
 
--PCB parts [CLICK](Robotic-gripper/PCB/BOM/PCB_BOM.xlsx)
+-PCB parts [CLICK](/PCB/BOM/PCB_BOM.xlsx)
 
 ## Software
 
