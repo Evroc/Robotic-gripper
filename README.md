@@ -19,8 +19,7 @@
 
 *The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
-*Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and micro-
-controller.
+*Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and microcontroller.
 
 *Powerful grip - 2:1 gear ratio.
 
