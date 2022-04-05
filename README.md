@@ -8,13 +8,13 @@
   1. [Software](software)
   1. [Assembly manual](#assembly-manual)
 
-##introduction
+## Introduction
 
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
  
     ![Alt text](/Gripper/Images/gripperOnUR_1.jpg "Optional title")
     
-##Features
+## Features
 
 *The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
@@ -31,11 +31,11 @@ example.
 
 *ROS compatible - use rosserial to communicate with the gripper.
 
-##Printed parts
+## Printed parts
 
 All files can be found there: <prusaprinters link>
 
-##Other parts
+## Other parts
   
 For non printed parts look here:
 
@@ -43,10 +43,10 @@ For non printed parts look here:
 
 -PCB parts [CLICK](Robotic-gripper/PCB/BOM/PCB_BOM.xlsx)
 
-##Software
+## Software
 
 qwerty
 
-##Assembly manual
+## Assembly manual
   
 In progress... gonna upload it in few days.
