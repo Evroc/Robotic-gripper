@@ -46,7 +46,7 @@ For non printed parts look here:
 
 ## PCB
 
-I created dedicated PCB for this projects, however feel free to modify it or even use your own designs. For KiCAD files look here:[CLICK](/PCB/KiCAD files)
+I created dedicated PCB for this projects, however feel free to modify it or even use your own designs.
 <img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_photo.jpg" alt="PCB" width="350"/>
 
 ## Software
