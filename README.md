@@ -5,6 +5,7 @@
   1. [Features](#features)
   1. [Printed parts](#printed-parts) 
   1. [Other parts](#other-parts)
+  1. [PCB](pcb)
   1. [Software](software)
   1. [Assembly manual](#assembly-manual)
 
@@ -42,6 +43,11 @@ For non printed parts look here:
 -Gripper parts [CLICK](/Gripper/BOM/GripperBOM.xlsx)
 
 -PCB parts [CLICK](/PCB/BOM/PCB_BOM.xlsx)
+
+## PCB
+
+I created dedicated PCB for this projects, however feel free to modify it or even use your own designs. For KiCAD files look here:[CLICK](/PCB/KiCAD files)
+<img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_photo.jpg" alt="PCB" width="350"/>
 
 ## Software
 
