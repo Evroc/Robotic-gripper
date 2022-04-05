@@ -11,7 +11,8 @@
 ## Introduction
 
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
-    ![Alt text](/Gripper/Images/gripperOnUR_1.jpg "Optional title" =250x250)
+    
+<img src="https://github.com/Evroc/Robotic-gripper/blob/main/Gripper/Images/gripperOnUR_1.jpg" alt="Gripper mounted on UR3e" width="250"/>
     
 ## Features
 
