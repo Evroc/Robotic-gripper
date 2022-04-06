@@ -5,8 +5,8 @@
   1. [Features](#features)
   1. [Printed parts](#printed-parts) 
   1. [Other parts](#other-parts)
-  1. [PCB](pcb)
-  1. [Software](software)
+  1. [PCB](#pcb)
+  1. [Software](#software)
   1. [Assembly manual](#assembly-manual)
   1. [Additional informations](#additional-informations)
 
