@@ -51,7 +51,47 @@ I designed dedicated PCB for this project, however feel free to modify it or eve
 
 ## Software
 
-qwerty
+The repository includes two exemplary control methods:
+- using the serial library
+- using the rosserial package and the ROS platform
+
+The included examples are written in Python language.
+
+In order to upload the program to Seeeduino, the appropriate Arduino IDE configuration is necessary ([instruction](http://wiki.ros.org/ROS/Installation))
+
+For both options it is necessary to install the pyserial library:
+```
+$ pip3 install pyserial
+```
+To use example with pyserial:
+* upload to Seeeduino program gripper_serial.ino
+* run the script gripper_serial.py with the appropriate port as an argument:
+```
+$ python3 gripper_serial.py --usb_port /dev/ttyACM0
+```
+
+To use example with rosserial: 
+* upload to Seeeduino program gripper_rosserial.ino
+* install ROS ([installation instruction](http://wiki.ros.org/ROS/Installation))
+* create a workspace and build rosserial repository:
+```
+$ mkdir -p catkin_ws/src
+$ cd /catkin_ws/src
+$ git clone https://github.com/ros-drivers/rosserial.git
+$ cd /catkin_ws
+$ catkin_make
+$ source devel/setup.bash
+```
+* run roscore in another terminal
+* run serial_node with the appropriate port as an argument:
+```
+$ rosrun rosserial_python serial_node.py port:=dev/ttyACM0
+```
+* in another terminal run script gripper_rosserial.py
+* you can also control gripper by publish state on the topic /gripper_state, for example:
+```
+$ rostopic pub /gripper_state std_msgs/Int16 "data: 0"
+```
 
 ## Assembly manual
   
