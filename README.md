@@ -18,19 +18,19 @@
     
 ## Features
 
-*The gripper is mostly 3D printed, all parts were designed for FDM printers.
+* The gripper is mostly 3D printed, all parts were designed for FDM printers.
 
-*Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and microcontroller.
+* Cheap - <100$ (excluding 3d printed parts), the most expensive parts are servomechanism and microcontroller.
 
-*Powerful grip - 2:1 gear ratio.
+* Powerful grip - 2:1 gear ratio.
 
-*Plug’n play - after assembling the project all you need to do is connect a USB-C cable and power cord
+* Plug’n play - after assembling the project all you need to do is connect a USB-C cable and power cord
 to DC socket.
 
-*Easy communication - you can simply send the servo position using a USB-C cable and provided code
+* Easy communication - you can simply send the servo position using a USB-C cable and provided code
 example.
 
-*ROS compatible - use rosserial to communicate with the gripper.
+* ROS compatible - use rosserial to communicate with the gripper.
 
 ## Printed parts
 
