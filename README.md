@@ -54,6 +54,7 @@ I designed dedicated PCB for this project, however feel free to modify it or eve
  * COMMUNICATION led - pin 1 (pinMode(1, OUTPUT))
  * SERVO - pin 8 (servo.attach(8))
  * Power Status led works independently from the software
+ * Jumper allows to power MCU without USB cable
   
 <img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_connectors.PNG" alt="PCB" width="350"/> 
   
