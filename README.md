@@ -40,14 +40,24 @@ All files can be found there: <prusaprinters link>
   
 For non printed parts look here:
 
--Gripper parts [CLICK](/Gripper/BOM/GripperBOM.xlsx)
+* Gripper parts [CLICK](/Gripper/BOM/GripperBOM.xlsx)
 
--PCB parts [CLICK](/PCB/BOM/PCB_BOM.xlsx)
+* PCB parts [CLICK](/PCB/BOM/PCB_BOM.xlsx)
 
 ## PCB
 
 I designed dedicated PCB for this project, however feel free to modify it or even use your own designs.
 <img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_photo.jpg" alt="PCB" width="350"/>
+  
+ Cheatsheet:
+ * STATUS led - pin 0 (pinMode(0, OUTPUT))
+ * COMMUNICATION led - pin 1 (pinMode(1, OUTPUT))
+ * SERVO - pin 8 (servo.attach(8))
+ * Power Status led works independently from the software
+  
+<img src="https://github.com/Evroc/Robotic-gripper/blob/main/PCB/Images/PCB_connectors.PNG" alt="PCB" width="350"/> 
+  
+
 
 ## Software
 
