@@ -116,6 +116,7 @@ Keep in mind that the project is still under development and some information is
   
 ## Other links
 
-  ([Assembly animation](https://www.youtube.com/embed/p2rVJ_NBgKo))
-  ([How does the mechanism works](https://www.youtube.com/embed/25BgIXnhyFg))
+  ([Assembly animation](https://www.youtube.com/watch?v=25BgIXnhyFg))
+  
+  ([How does the mechanism works](https://youtu.be/p2rVJ_NBgKo))
 
