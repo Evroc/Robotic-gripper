@@ -36,7 +36,7 @@ example.
 
 ## Printed parts
 
-All files can be found there: <prusaprinters link>
+All files can be found there: ([LINK](https://www.printables.com/model/165722-robotic-gripper))
 
 ## Other parts
   
