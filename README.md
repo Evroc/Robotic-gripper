@@ -9,12 +9,15 @@
   1. [Software](#software)
   1. [Assembly manual](#assembly-manual)
   1. [Additional informations](#additional-informations)
+  1. [How does the mechanism works](#how-does-the-mechanism-works)
 
 ## Introduction
 
  Cheap, 3d printed gripper for robotic applications with integrated electronics and ROS communication.
     
 <img src="https://github.com/Evroc/Robotic-gripper/blob/main/Gripper/Images/gripperOnUR_1.jpg" alt="Gripper mounted on UR3e" width="450"/>
+
+<iframe width="1262" height="710" src="https://www.youtube.com/embed/25BgIXnhyFg" title="Assembly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 ## Features
 
@@ -111,3 +114,7 @@ In progress... gonna upload it in few days.
 ## Additional informations
   
 Keep in mind that the project is still under development and some information is missing here. If you encounter problems - contact me using email: michael.grabowski.lab@gmail.com
+  
+## How does the mechanism works
+  
+<iframe width="1262" height="710" src="https://www.youtube.com/embed/p2rVJ_NBgKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
