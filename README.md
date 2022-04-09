@@ -109,6 +109,7 @@ $ rostopic pub /gripper_state std_msgs/Int16 "data: 0"
 ## Assembly manual
   
 Online version is here: ([Build guide](https://1drv.ms/p/s!AmhhxRqSkzTrhK5689f8yG8gnyS89Q?e=EBmXII)) 
+  
 PDF is here: [Build guide PDF](/Build-guide/GripperBuildGuide_v1.0.pdf)
 
   
