@@ -7,6 +7,7 @@
   1. [Other parts](#other-parts)
   1. [PCB](#pcb)
   1. [Software](#software)
+  1. [Simulation](#simulation)
   1. [Assembly manual](#assembly-manual)
   1. [Additional informations](#additional-informations)
   1. [Other links](#other-links)
@@ -105,6 +106,9 @@ $ rosrun rosserial_python serial_node.py port:=dev/ttyACM0
 ```
 $ rostopic pub /gripper_state std_msgs/Int16 "data: 0"
 ```
+## Simulation
+
+Check that: https://github.com/Michal-Bidzinski/UR3_sim
 
 ## Assembly manual
   
